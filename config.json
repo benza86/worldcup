@@ -150,27 +150,6 @@
   },
 
 
-  
-
-  {
-    "title":"Youtube",
-    "drawable":"",
-    "submenu":"Social Media",
-    "iap":false,
-    "tabs":[
-
-    
-      {
-        "title":"ملخصات و أهداف",
-        "provider":"youtube",
-        "arguments":[
-          "UCdyKwzOdSr76_Zov2B3i8ow",
-          "channel"
-        ]
-      }
-    ]
-  },
-
   {
     "title":"نتائج",
     "drawable":"",
