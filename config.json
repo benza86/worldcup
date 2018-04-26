@@ -1,0 +1,228 @@
+[
+  {
+    "title":"أخبار",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+	      {
+        "title":"كأس العالم",
+        "provider":"wordpress",
+        "arguments":[
+         "http://shevahd.fr/wp-json/wp/v2/",
+          "18"
+        ]
+      }
+	  ,
+      {
+        "title":"اخر الاخبار",
+        "provider":"wordpress",
+        "arguments":[
+          "http://shevahd.fr/wp-json/wp/v2/"
+        ]
+      }
+
+    ]
+  },
+  
+  {
+    "title":"ملخصات و أهداف",
+    "drawable":"",
+    "submenu":"Social Media",
+    "iap":false,
+    "tabs":[
+
+      {
+        "title":"تعليق عربي",
+        "provider":"youtube",
+        "arguments":[
+          "UCgPQ-ItOBKAGQSshL0CFA5w",
+          "channel"
+
+        ]
+      },
+	      {
+        "title":" تعليق انجليزي",
+        "provider":"youtube",
+        "arguments":[
+          "UCQ8teRDg67faTu56c2l_IYA",
+          "channel"
+
+        ]
+      },
+	   {
+        "title":"الدوري الانجليزي",
+        "provider":"youtube",
+        "arguments":[
+          "UCnfTxMObW3nm-9faQzRGIig",
+          "channel"
+
+        ]
+      },
+	  
+	  	  	   {
+        "title":"الدوري الاسباني",
+        "provider":"youtube",
+        "arguments":[
+          "UC1rhtAWLDdgcEAo1JKkBKkg",
+          "channel"
+
+        ]
+      },
+	  	   {
+        "title":"الدوري الفرنسي",
+        "provider":"youtube",
+        "arguments":[
+          "UC58LMAlfwtGRNR6Xpd4DlSA",
+          "channel"
+
+        ]
+      },
+      {
+        "title":"تعليق انجليزي ",
+        "provider":"youtube",
+        "arguments":[
+          "UCdyKwzOdSr76_Zov2B3i8ow",
+          "channel"
+        ]
+      }
+	  ,
+      {
+        "title":"الدوري السعودي",
+        "provider":"youtube",
+        "arguments":[
+          "UCuv25YFiKY3NUnuG7q7F3ng",
+          "channel"
+        ]
+      }
+	   ,
+      {
+        "title":"دوريات عربية",
+        "provider":"youtube",
+        "arguments":[
+          "UCShPR_51eeEfreqNnRBLJ2Q",
+          "channel"
+        ]
+      }
+	    ,
+      {
+        "title":"مقتطفات",
+        "provider":"youtube",
+        "arguments":[
+          "UCfWnNRm78OM4fmgrkI--RvA",
+          "channel"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"بث مباشر",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.kol7sry.news/p/yalla-shoot.html?m=0"
+        ]
+      }
+    ]
+
+  },
+  {
+    "title":"أخبار سريعة",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+
+      {
+        "title":"FRance 24",
+        "provider":"rss",
+        "arguments":[
+          "http://www.france24.com/ar/sport/rss"
+
+
+        ]
+      },
+        {
+        "title":"العربية",
+        "provider":"rss",
+        "arguments":[
+          "https://www.alarabiya.net/.mrss/ar/sport.xml"  ]
+      }
+    ]
+  },
+
+
+  
+
+  {
+    "title":"Youtube",
+    "drawable":"",
+    "submenu":"Social Media",
+    "iap":false,
+    "tabs":[
+
+    
+      {
+        "title":"ملخصات و أهداف",
+        "provider":"youtube",
+        "arguments":[
+          "UCdyKwzOdSr76_Zov2B3i8ow",
+          "channel"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"نتائج",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://ar.fifa.com/worldcup/matches/index.html"
+        ]
+      }
+    ]
+
+  },
+  {
+    "title":"فيديوهات",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Categories",
+        "provider":"overview",
+        "arguments":[
+          "overview.json"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"عن التطبيق",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.med.appm.coupemonde.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
