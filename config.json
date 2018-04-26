@@ -33,13 +33,13 @@
     "tabs":[
 
       {
-        "title":"تعليق عربي",
+	              "title":"دوريات عربية",
         "provider":"youtube",
         "arguments":[
-          "UCgPQ-ItOBKAGQSshL0CFA5w",
+          "UCShPR_51eeEfreqNnRBLJ2Q",
           "channel"
-
         ]
+ 
       },
 	      {
         "title":" تعليق انجليزي",
@@ -78,15 +78,7 @@
 
         ]
       },
-      {
-        "title":"تعليق انجليزي ",
-        "provider":"youtube",
-        "arguments":[
-          "UCdyKwzOdSr76_Zov2B3i8ow",
-          "channel"
-        ]
-      }
-	  ,
+     
       {
         "title":"الدوري السعودي",
         "provider":"youtube",
@@ -97,11 +89,12 @@
       }
 	   ,
       {
-        "title":"دوريات عربية",
+              "title":"تعليق عربي",
         "provider":"youtube",
         "arguments":[
-          "UCShPR_51eeEfreqNnRBLJ2Q",
+          "UCgPQ-ItOBKAGQSshL0CFA5w",
           "channel"
+
         ]
       }
 	    ,
