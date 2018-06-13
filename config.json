@@ -28,18 +28,99 @@
   {
     "title":"ملخصات و أهداف",
     "drawable":"",
-    "submenu":"Social Media",
+    "submenu":"فيديوهات",
     "iap":false,
     "tabs":[
 
-      {
-	              "title":"جميع الدوريات",
+{
+        "title":"ملخصات",
         "provider":"youtube",
         "arguments":[
-          "UCShPR_51eeEfreqNnRBLJ2Q",
+          "UC1rhtAWLDdgcEAo1JKkBKkg",
+          "channel"
+
+        ]
+      },
+	     
+	      {
+        "title":"اخر الأخبار",
+        "provider":"youtube",
+        "arguments":[
+          "PLmQHtil5-0QVP7WrmcVfrTYycQ8IxM9z5",
+          "playlist"
+
+        ]
+      },
+	
+	     {
+              "title":"تعليق عربي",
+        "provider":"youtube",
+        "arguments":[
+          "UCgPQ-ItOBKAGQSshL0CFA5w",
+          "channel"
+
+        ]
+      }
+	    ,
+	  
+	  	  	
+	       {
+        "title":"المباريات الودية",
+        "provider":"youtube",
+        "arguments":[
+          "UCutIgEWpkJY9XiVrUmsyhtA",
+          "channel"
+
+        ]
+      },
+	      
+      {
+        "title":"مقتطفات",
+        "provider":"youtube",
+        "arguments":[
+          "UCfWnNRm78OM4fmgrkI--RvA",
           "channel"
         ]
- 
+      },
+	     
+	    
+   {
+        "title":"Le Sport avec CANAL",
+        "provider":"youtube",
+        "arguments":[
+          "UC8ggH3zU61XO0nMskSQwZdA",
+          "channel"
+
+        ]
+      },
+	       {
+        "title":"Debrief résumé",
+        "provider":"youtube",
+        "arguments":[
+          "UC_kQdpdpTov-G4juDePL8ag",
+          "channel"
+
+        ]
+      },
+	    
+	    {
+        "title":"Foot Mercato",
+        "provider":"youtube",
+        "arguments":[
+          "UCrzDtXyuSBch2u_31JJj-Dw",
+          "channel"
+
+        ]
+      }
+	    ,
+	    {
+        "title":"AFTER FOOT",
+        "provider":"youtube",
+        "arguments":[
+          "UCUdwSuEopnWNpibR9-dgciw",
+          "channel"
+
+        ]
       },
 	      {
         "title":" تعليق انجليزي",
@@ -97,15 +178,7 @@
 
         ]
       }
-	    ,
-      {
-        "title":"مقتطفات",
-        "provider":"youtube",
-        "arguments":[
-          "UCfWnNRm78OM4fmgrkI--RvA",
-          "channel"
-        ]
-      }
+	  
     ]
   },
   {
