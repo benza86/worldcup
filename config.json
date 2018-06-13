@@ -32,15 +32,7 @@
     "iap":false,
     "tabs":[
 
-{
-        "title":"ملخصات",
-        "provider":"youtube",
-        "arguments":[
-          "UC1rhtAWLDdgcEAo1JKkBKkg",
-          "channel"
 
-        ]
-      },
 	     
 	      {
         "title":"اخر الأخبار",
@@ -69,6 +61,15 @@
         "provider":"youtube",
         "arguments":[
           "UCutIgEWpkJY9XiVrUmsyhtA",
+          "channel"
+
+        ]
+      },
+	    {
+        "title":"ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UC1rhtAWLDdgcEAo1JKkBKkg",
           "channel"
 
         ]
