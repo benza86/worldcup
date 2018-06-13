@@ -213,12 +213,6 @@
 
 
         ]
-      },
-        {
-        "title":"العربية",
-        "provider":"rss",
-        "arguments":[
-          "https://www.alarabiya.net/.mrss/ar/sport.xml"  ]
       }
     ]
   },
