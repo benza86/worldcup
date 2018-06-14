@@ -182,22 +182,7 @@
 	  
     ]
   },
-	{
-    "title":"2بث مباشر",
-    "drawable":"",
-    "submenu":"شاهد المباريات مباشرة",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.beinmatch.com/home/live/4298/1/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7_vs_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9"
-        ]
-      }
-    ]
-
-  },
+	
   {
     "title":"بث مباشر",
     "drawable":"",
