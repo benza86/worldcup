@@ -64,6 +64,24 @@
           "channel"
         ]
       },
+	          {
+        "title":"كواليس تونس",
+        "provider":"youtube",
+        "arguments":[
+          "PLmQHtil5-0QVP7WrmcVfrTYycQ8IxM9z5",
+          "playlist"
+
+        ]
+      },
+	    	          {
+        "title":"كواليس مصر",
+        "provider":"youtube",
+        "arguments":[
+          "UCWLo4r-9_x4GCJCFShNFq0A",
+          "channel"
+
+        ]
+      },
 	    
  {
         "title":"مقتطفات",
@@ -84,24 +102,8 @@
       },
 	  
 	     
-	      {
-        "title":"كواليس تونس",
-        "provider":"youtube",
-        "arguments":[
-          "PLmQHtil5-0QVP7WrmcVfrTYycQ8IxM9z5",
-          "playlist"
+	
 
-        ]
-      },
-	          {
-        "title":"كواليس مصر",
-        "provider":"youtube",
-        "arguments":[
-          "UCWLo4r-9_x4GCJCFShNFq0A",
-          "channel"
-
-        ]
-      },
 	
 	     {
               "title":"تعليق عربي",
