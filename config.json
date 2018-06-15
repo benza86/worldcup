@@ -31,14 +31,73 @@
     "submenu":"فيديوهات",
     "iap":false,
     "tabs":[
+	    
+	     {
+        "title":"ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCCEzlzAlpdIWScNLTxCsW3Q",
+          "channel"
+        ]
+      },
+	    	     {
+        "title":"الاستوديو التحليلي",
+        "provider":"youtube",
+        "arguments":[
+          "UCqXVEbCxzMh-Xljo7ApVgTQ",
+          "channel"
+        ]
+      },
+	       {
+        "title":"كواليس المونديال",
+        "provider":"youtube",
+        "arguments":[
+          "UCe9Wb6D8SQR0gyNfgNLZaiw",
+          "channel"
+        ]
+      },
+	        {
+        "title":"كواليس المغرب",
+        "provider":"youtube",
+        "arguments":[
+          "UC3_N5eFRpGNhW9VnwQlvQWg",
+          "channel"
+        ]
+      },
+	    
+ {
+        "title":"مقتطفات",
+        "provider":"youtube",
+        "arguments":[
+          "UCfWnNRm78OM4fmgrkI--RvA",
+          "channel"
+        ]
+      },
+   {
+        "title":" ملخصات انجليزي",
+        "provider":"youtube",
+        "arguments":[
+          "UCnfTxMObW3nm-9faQzRGIig",
+          "channel"
 
-
+        ]
+      },
+	  
 	     
 	      {
-        "title":"اخر الأخبار",
+        "title":"كواليس تونس",
         "provider":"youtube",
         "arguments":[
           "PLmQHtil5-0QVP7WrmcVfrTYycQ8IxM9z5",
+          "playlist"
+
+        ]
+      },
+	          {
+        "title":"كواليس مصر",
+        "provider":"youtube",
+        "arguments":[
+          "UCWLo4r-9_x4GCJCFShNFq0A",
           "playlist"
 
         ]
@@ -75,14 +134,7 @@
         ]
       },
 	      
-      {
-        "title":"مقتطفات",
-        "provider":"youtube",
-        "arguments":[
-          "UCfWnNRm78OM4fmgrkI--RvA",
-          "channel"
-        ]
-      },
+     
 	     
 	    
    {
@@ -132,16 +184,7 @@
 
         ]
       },
-	   {
-        "title":"الدوري الانجليزي",
-        "provider":"youtube",
-        "arguments":[
-          "UCnfTxMObW3nm-9faQzRGIig",
-          "channel"
-
-        ]
-      },
-	  
+	
 	  	  	   {
         "title":"الدوري الاسباني",
         "provider":"youtube",
