@@ -260,22 +260,7 @@
 
   },
 	 
-	 {
-    "title":"بث مباشر 2",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://letslowbefast.online/ch/b21/ch2.php"
-        ]
-      }
-    ]
-
-  },
+	
 
   {
     "title":"أخبار سريعة",
