@@ -245,7 +245,7 @@
 
   },
 	 {
-    "title":"Low كولبيا اليابان مباشر",
+    "title":"بث مباشر 2",
     "drawable":"",
     "submenu":"Other",
     "iap":false,
@@ -254,14 +254,14 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "https://player.twitch.tv/?channel=ef2qohn1l4ctqv"
+          "https://player.twitch.tv/?channel=old00uot67"
         ]
       }
     ]
 
   },
 	 {
-    "title":"كولبيا اليابان مباشر",
+    "title":"بث مباشر 3",
     "drawable":"",
     "submenu":"Other",
     "iap":false,
