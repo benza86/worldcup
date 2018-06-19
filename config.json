@@ -259,22 +259,7 @@
     ]
 
   },
-	  {
-    "title":"2 بث مباشر",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://player.twitch.tv/?channel=emod0u2u014"
-        ]
-      }
-    ]
-
-  }, 
+	
 	
 
   {
