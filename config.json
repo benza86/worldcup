@@ -244,6 +244,22 @@
     ]
 
   },
+	 {
+    "title":"كولبيا اليابان مباشر",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://player.twitch.tv/?channel=deniz1206"
+        ]
+      }
+    ]
+
+  },
 
   {
     "title":"أخبار سريعة",
