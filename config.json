@@ -260,7 +260,7 @@
 
   },
 	  {
-    "title":"2بث مباشر",
+    "title":"2 بث مباشر",
     "drawable":"",
     "submenu":"Other",
     "iap":false,
@@ -269,7 +269,7 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "https://player.twitch.tv/?channel=OLD00UOT69"
+          "https://player.twitch.tv/?channel=emod0u2u019"
         ]
       }
     ]
