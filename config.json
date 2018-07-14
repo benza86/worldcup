@@ -1,29 +1,5 @@
 [
-  {
-    "title":"أخبار",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-	      {
-        "title":"كأس العالم",
-        "provider":"wordpress",
-        "arguments":[
-         "http://shevahd.fr/wp-json/wp/v2/",
-          "18"
-        ]
-      }
-	  ,
-      {
-        "title":"اخر الاخبار",
-        "provider":"wordpress",
-        "arguments":[
-          "http://shevahd.fr/wp-json/wp/v2/"
-        ]
-      }
-
-    ]
-  },
+  
   
   {
     "title":"ملخصات و أهداف",
