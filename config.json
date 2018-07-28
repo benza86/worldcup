@@ -3,7 +3,7 @@
     {
     "title":"مباريات اليوم",
     "drawable":"",
-    "submenu":"Other",
+    "submenu":"مباريات",
     "iap":false,
     "tabs":[
       {
@@ -34,15 +34,23 @@
         ]
       },  
 	     {
+        "title":"مقتطفات",
+        "provider":"youtube",
+        "arguments":[
+          "UCfWnNRm78OM4fmgrkI--RvA",
+          "channel"
+        ]
+      },
+	     {
         "title":"ملخصات",
         "provider":"youtube",
         "arguments":[
-          "UCCEzlzAlpdIWScNLTxCsW3Q",
+          "UCjXJyqVk9nJEIr2R6B491lg",
           "channel"
         ]
       },
 	    	     {
-        "title":"الاستوديو التحليلي",
+        "title":"بي اين الاخبارية",
         "provider":"youtube",
         "arguments":[
           "UCqXVEbCxzMh-Xljo7ApVgTQ",
@@ -50,7 +58,7 @@
         ]
       },
 	       {
-        "title":"كواليس المونديال",
+        "title":"متابعات",
         "provider":"youtube",
         "arguments":[
           "UCe9Wb6D8SQR0gyNfgNLZaiw",
@@ -58,7 +66,7 @@
         ]
       },
 	        {
-        "title":"كواليس المغرب",
+        "title":"مونديال",
         "provider":"youtube",
         "arguments":[
           "UC3_N5eFRpGNhW9VnwQlvQWg",
@@ -66,7 +74,7 @@
         ]
       },
 	          {
-        "title":"كواليس تونس",
+        "title":"مونديال",
         "provider":"youtube",
         "arguments":[
           "PLmQHtil5-0QVP7WrmcVfrTYycQ8IxM9z5",
@@ -75,7 +83,7 @@
         ]
       },
 	    	          {
-        "title":"كواليس مصر",
+        "title": "كورة مصرية",
         "provider":"youtube",
         "arguments":[
           "UCWLo4r-9_x4GCJCFShNFq0A",
@@ -84,14 +92,7 @@
         ]
       },
 	    
- {
-        "title":"مقتطفات",
-        "provider":"youtube",
-        "arguments":[
-          "UCfWnNRm78OM4fmgrkI--RvA",
-          "channel"
-        ]
-      },
+
    {
         "title":" ملخصات انجليزي",
         "provider":"youtube",
@@ -229,6 +230,78 @@
     ]
   },
 
+  {
+    "title":"ملخصات و أهداف",
+    "drawable":"",
+    "submenu":"كورة عربية",
+    "iap":false,
+    "tabs":[
+	      {
+        "title":"تونس",
+        "provider":"youtube",
+        "arguments":[
+          "UCa44LffDN9BNwyGgWpNtBNw",
+          "channel"
+        ]
+      },
+	        {
+        "title":"الجزائر",
+        "provider":"youtube",
+        "arguments":[
+          "UCTP99Nt2BY_xG6gahWXhK5A",
+          "channel"
+        ]
+      },
+	    	     {
+        "title":"المغرب",
+        "provider":"youtube",
+        "arguments":[
+          "UCqXVEbCxzMh-Xljo7ApVgTQ",
+          "channel"
+        ]
+      },
+	    
+	    	          {
+        "title": "كورة مصرية",
+        "provider":"youtube",
+        "arguments":[
+          "UCWLo4r-9_x4GCJCFShNFq0A",
+          "channel"
+
+        ]
+      },
+	    
+	        
+     
+      {
+        "title":"الدوري السعودي",
+        "provider":"youtube",
+        "arguments":[
+          "UCuv25YFiKY3NUnuG7q7F3ng",
+          "channel"
+        ]
+      },
+	   
+	       {
+        "title":"كورة عربية",
+        "provider":"youtube",
+        "arguments":[
+          "UCe9Wb6D8SQR0gyNfgNLZaiw",
+          "channel"
+        ]
+      },
+	          {
+        "title":"متابعات",
+        "provider":"youtube",
+        "arguments":[
+          "UCMrQESW0BGrblhB9uo3Qg5w",
+          "channel"
+        ]
+      }
+	  
+	  
+    ]
+  },
   {
     "title":"بث مباشر",
     "drawable":"",
