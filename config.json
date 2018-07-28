@@ -1,5 +1,23 @@
 [
   
+    {
+    "title":"مباريات اليوم",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://kora-online.tv/"
+        ]
+      }
+    ]
+
+  },
+	
+  
   
   {
     "title":"ملخصات و أهداف",
