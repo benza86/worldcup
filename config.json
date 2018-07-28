@@ -228,22 +228,7 @@
 	  
     ]
   },
-  {
-    "title":"اذا انحظر البث قم بعمل تحديث للصفحة",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.kol7sry.news/p/yalla-shoot.html?m=0"
-        ]
-      }
-    ]
 
-  },	
   {
     "title":"بث مباشر",
     "drawable":"",
