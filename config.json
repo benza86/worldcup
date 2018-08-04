@@ -31,23 +31,7 @@
       }
     ]
 
-  },
-    {
-    "title":"بث مباشر 3",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.super-kora.tv/"
-        ]
-      }
-    ]
-
-  },	
+  
   {
     "title":"النتائج",
     "drawable":"",
