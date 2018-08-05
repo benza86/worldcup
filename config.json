@@ -56,8 +56,16 @@
     "submenu":"فيديوهات",
     "iap":false,
     "tabs":[
-	      {
+	       {
         "title":"مباريات ودية",
+        "provider":"youtube",
+        "arguments":[
+          "UCgPQ-ItOBKAGQSshL0CFA5w",
+          "channel"
+        ]
+      },  
+	      {
+        "title":"مباريات ودية 2",
         "provider":"youtube",
         "arguments":[
           "UCP1cc6fUl_eVu114oZ75Qag",
