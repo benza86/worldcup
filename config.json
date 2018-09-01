@@ -16,6 +16,22 @@
     ]
 
   },
+		    {
+    "title":"Liverpool Leicester city",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.kora-star.tv/2018/08/Liverpool-vs-Leicester-City.html"
+        ]
+      }
+    ]
+	    }
+  ,
 	    {
     "title":"بث مباشر 2",
     "drawable":"",
