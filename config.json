@@ -33,22 +33,7 @@
 	    ]
 	 }
 	,
-		    {
-    "title":"في اسفل الصفحة Liverpool Leicester city",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.kora-star.tv/2018/08/Liverpool-vs-Leicester-City.html"
-        ]
-      }
-    ]
-	    }
-  ,
+		   
 	    {
     "title":"بث مباشر 2",
     "drawable":"",
@@ -89,8 +74,16 @@
     "submenu":"فيديوهات",
     "iap":false,
     "tabs":[
+	        {
+        "title":"جميع الدوريات",
+        "provider":"youtube",
+        "arguments":[
+          "UC7C-kigODYM1DhEO14yKXAA",
+          "channel"
+        ]
+      },  
 	       {
-        "title":"مباريات ودية",
+        "title":"مباريات ",
         "provider":"youtube",
         "arguments":[
           "UCgPQ-ItOBKAGQSshL0CFA5w",
@@ -98,7 +91,7 @@
         ]
       },  
 	      {
-        "title":"مباريات ودية 2",
+        "title":"مباريات  2",
         "provider":"youtube",
         "arguments":[
           "UCP1cc6fUl_eVu114oZ75Qag",
