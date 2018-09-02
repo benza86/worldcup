@@ -243,23 +243,7 @@
 	  
     ]
   },
-	 {
-    "title":"بث مباشر ",
-    "drawable":"",
-    "submenu":"بث مباشر يوتوب",
-    "iap":false,
-    "tabs":[
-	       {
-        "title":"بث مباشر",
-        "provider":"youtube",
-        "arguments":[
-          "PLUruAO4-0QPyDc8ovZvb-2kKS4eUSoy6a",
-          "playlist"
-        ]
-      }
-	    ]
-	 }
-	,
+	
 		   
 	    {
     "title":"بث مباشر 2",
