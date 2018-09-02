@@ -424,28 +424,13 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "https://www.flashscore.com"
+          "http://t.flashscores.co.uk/#!/football/0/"
         ]
       }
     ]
 
   },
-	 {
-    "title":"LiveScore2",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://m.flashscore.in/football/"
-        ]
-      }
-    ]
-
-  },
+	
 	
 	
 
