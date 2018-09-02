@@ -16,58 +16,7 @@
     ]
 
   },
-	 {
-    "title":"بث مباشر ",
-    "drawable":"",
-    "submenu":"بث مباشر يوتوب",
-    "iap":false,
-    "tabs":[
-	       {
-        "title":"بث مباشر",
-        "provider":"youtube",
-        "arguments":[
-          "PLUruAO4-0QPyDc8ovZvb-2kKS4eUSoy6a",
-          "playlist"
-        ]
-      }
-	    ]
-	 }
-	,
-		   
-	    {
-    "title":"بث مباشر 2",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.as-goal.com"
-        ]
-      }
-    ]
-	    }
-  ,
-  {
-    "title":"النتائج",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.goal.com/ar/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AD%D8%A7%D9%84%D9%8A%D9%8B%D8%A7"
-        ]
-      }
-    ]
-
-  },
-  
-  
+	
   {
     "title":"ملخصات و أهداف",
     "drawable":"",
@@ -294,6 +243,58 @@
 	  
     ]
   },
+	 {
+    "title":"بث مباشر ",
+    "drawable":"",
+    "submenu":"بث مباشر يوتوب",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":"بث مباشر",
+        "provider":"youtube",
+        "arguments":[
+          "PLUruAO4-0QPyDc8ovZvb-2kKS4eUSoy6a",
+          "playlist"
+        ]
+      }
+	    ]
+	 }
+	,
+		   
+	    {
+    "title":"بث مباشر 2",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.as-goal.com"
+        ]
+      }
+    ]
+	    }
+  ,
+  {
+    "title":"النتائج",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.goal.com/ar/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AD%D8%A7%D9%84%D9%8A%D9%8B%D8%A7"
+        ]
+      }
+    ]
+
+  },
+  
+  
 
   {
     "title":"ملخصات و أهداف",
