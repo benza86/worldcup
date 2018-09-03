@@ -31,6 +31,15 @@
           "channel"
         ]
       },  
+	    {
+        "title":" تعليق انجليزي",
+        "provider":"youtube",
+        "arguments":[
+          "UCQ8teRDg67faTu56c2l_IYA",
+          "channel"
+
+        ]
+      },
 	            {
         "title":"ملخصات عربي",
         "provider":"youtube",
