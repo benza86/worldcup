@@ -16,6 +16,23 @@
     ]
 
   },
+	 {
+    "title":"نتائج مباشرة",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.matchendirect.fr/"
+        ]
+      }
+    ]
+
+  },
+	
 	
   {
     "title":"ملخصات و أهداف",
@@ -389,9 +406,9 @@
 	
 
   {
-    "title":"أخبار سريعة",
+    "title":"CNN Arabic",
     "drawable":"",
-    "submenu":"",
+    "submenu":"أخبار سريعة",
     "iap":false,
     "tabs":[
 
@@ -399,14 +416,49 @@
         "title":"FRance 24",
         "provider":"rss",
         "arguments":[
-          "http://www.france24.com/ar/sport/rss"
+          "https://arabic.cnn.com/api/v1/rss/sport/rss.xml"
 
 
         ]
       }
     ]
   },
+{
+    "title":"Arabia",
+    "drawable":"",
+    "submenu":"أخبار سريعة",
+    "iap":false,
+    "tabs":[
 
+      {
+        "title":"FRance 24",
+        "provider":"rss",
+        "arguments":[
+          "https://www.alarabiya.net/.mrss/ar/sport.xml"
+
+
+        ]
+      }
+    ]
+  },
+	{
+    "title":"Youm 7",
+    "drawable":"",
+    "submenu":"أخبار سريعة",
+    "iap":false,
+    "tabs":[
+
+      {
+        "title":"FRance 24",
+        "provider":"rss",
+        "arguments":[
+          "https://www.youm7.com/rss/SectionRss?SectionID=298"
+
+
+        ]
+      }
+    ]
+  },
 
   {
     "title":"فيديوهات",
@@ -422,22 +474,6 @@
         ]
       }
     ]
-  },
-	 {
-    "title":"LiveScore",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.matchendirect.fr/"
-        ]
-      }
-    ]
-
   },
 	
 	
