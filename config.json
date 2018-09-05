@@ -19,7 +19,7 @@
 	 {
     "title":"نتائج مباشرة",
     "drawable":"",
-    "submenu":"Other",
+    "submenu":"نتائج",
     "iap":false,
     "tabs":[
       {
@@ -32,6 +32,39 @@
     ]
 
   },
+	 {
+    "title":"مقابلات مباشرة الان",
+    "drawable":"",
+    "submenu":"نتائج",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://t.flashscore.ca/#!/soccer/live"
+        ]
+      }
+    ]
+
+  },
+	
+ {
+    "title":"ترتيب الدوريات",
+    "drawable":"",
+    "submenu":"نتائج",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://t.flashscore.ca/#!/soccer/standings"
+        ]
+      }
+    ]
+
+  },	
 	
 	
   {
@@ -277,7 +310,42 @@
 	  
     ]
   },
-	
+	  {
+    "title":"CNN Arabic",
+    "drawable":"",
+    "submenu":"أخبار سريعة",
+    "iap":false,
+    "tabs":[
+
+      {
+        "title":"FRance 24",
+        "provider":"rss",
+        "arguments":[
+          "https://arabic.cnn.com/api/v1/rss/sport/rss.xml"
+
+
+        ]
+      }
+    ]
+  },
+	{
+    "title":"Youm 7",
+    "drawable":"",
+    "submenu":"أخبار سريعة",
+    "iap":false,
+    "tabs":[
+
+      {
+        "title":"FRance 24",
+        "provider":"rss",
+        "arguments":[
+          "https://www.youm7.com/rss/SectionRss?SectionID=298"
+
+
+        ]
+      }
+    ]
+  },
 		   
 	    {
     "title":"بث مباشر 2",
@@ -405,60 +473,7 @@
 	
 	
 
-  {
-    "title":"CNN Arabic",
-    "drawable":"",
-    "submenu":"أخبار سريعة",
-    "iap":false,
-    "tabs":[
 
-      {
-        "title":"FRance 24",
-        "provider":"rss",
-        "arguments":[
-          "https://arabic.cnn.com/api/v1/rss/sport/rss.xml"
-
-
-        ]
-      }
-    ]
-  },
-{
-    "title":"Arabia",
-    "drawable":"",
-    "submenu":"أخبار سريعة",
-    "iap":false,
-    "tabs":[
-
-      {
-        "title":"FRance 24",
-        "provider":"rss",
-        "arguments":[
-          "https://www.alarabiya.net/.mrss/ar/sport.xml"
-
-
-        ]
-      }
-    ]
-  },
-	{
-    "title":"Youm 7",
-    "drawable":"",
-    "submenu":"أخبار سريعة",
-    "iap":false,
-    "tabs":[
-
-      {
-        "title":"FRance 24",
-        "provider":"rss",
-        "arguments":[
-          "https://www.youm7.com/rss/SectionRss?SectionID=298"
-
-
-        ]
-      }
-    ]
-  },
 
   {
     "title":"فيديوهات",
