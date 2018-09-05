@@ -81,6 +81,14 @@
           "channel"
         ]
       },  
+	         {
+        "title":"ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCzC-ZsedZ4__1mwgHkYUJyg",
+          "channel"
+        ]
+      },
 	    {
         "title":" تعليق انجليزي",
         "provider":"youtube",
@@ -98,6 +106,35 @@
           "channel"
         ]
       },  
+	    
+	  	  	   {
+        "title":"الدوري الاسباني",
+        "provider":"youtube",
+        "arguments":[
+          "UC1rhtAWLDdgcEAo1JKkBKkg",
+          "channel"
+
+        ]
+      },
+	  	   {
+        "title":"الدوري الفرنسي",
+        "provider":"youtube",
+        "arguments":[
+          "UC58LMAlfwtGRNR6Xpd4DlSA",
+          "channel"
+
+        ]
+      },
+     
+      {
+        "title":"الدوري السعودي",
+        "provider":"youtube",
+        "arguments":[
+          "UCuv25YFiKY3NUnuG7q7F3ng",
+          "channel"
+        ]
+      }
+	   ,
 	       {
         "title":"مباريات ",
         "provider":"youtube",
@@ -122,14 +159,7 @@
           "channel"
         ]
       },
-	     {
-        "title":"ملخصات",
-        "provider":"youtube",
-        "arguments":[
-          "UCjXJyqVk9nJEIr2R6B491lg",
-          "channel"
-        ]
-      },
+	
 	    	     {
         "title":"بي اين الاخبارية",
         "provider":"youtube",
@@ -158,13 +188,13 @@
         "title":"مونديال",
         "provider":"youtube",
         "arguments":[
-          "PLmQHtil5-0QVP7WrmcVfrTYycQ8IxM9z5",
-          "playlist"
+          "UC51TwW6evn4oWD8rPBZVynQ",
+          "channel"
 
         ]
       },
 	    	          {
-        "title": "كورة مصرية",
+        "title": "On Sport",
         "provider":"youtube",
         "arguments":[
           "UCWLo4r-9_x4GCJCFShNFq0A",
@@ -270,34 +300,6 @@
         ]
       },
 	
-	  	  	   {
-        "title":"الدوري الاسباني",
-        "provider":"youtube",
-        "arguments":[
-          "UC1rhtAWLDdgcEAo1JKkBKkg",
-          "channel"
-
-        ]
-      },
-	  	   {
-        "title":"الدوري الفرنسي",
-        "provider":"youtube",
-        "arguments":[
-          "UC58LMAlfwtGRNR6Xpd4DlSA",
-          "channel"
-
-        ]
-      },
-     
-      {
-        "title":"الدوري السعودي",
-        "provider":"youtube",
-        "arguments":[
-          "UCuv25YFiKY3NUnuG7q7F3ng",
-          "channel"
-        ]
-      }
-	   ,
       {
               "title":"تعليق عربي",
         "provider":"youtube",
