@@ -1,5 +1,20 @@
 [
-  
+  {
+    "title":"هته النسخة ستتوقف عن العمل بعد أيام",
+    "drawable":"",
+    "submenu":"قم بتحديث التطبيق الان و حذف النسخة القديمة",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.knoozapps.xyz/livefoot.html"
+        ]
+      }
+    ]
+
+  },	
     {
     "title":"مباريات اليوم",
     "drawable":"",
@@ -312,203 +327,10 @@
 	  
     ]
   },
-	  {
-    "title":"CNN Arabic",
-    "drawable":"",
-    "submenu":"أخبار سريعة",
-    "iap":false,
-    "tabs":[
-
-      {
-        "title":"FRance 24",
-        "provider":"rss",
-        "arguments":[
-          "https://arabic.cnn.com/api/v1/rss/sport/rss.xml"
-
-
-        ]
-      }
-    ]
-  },
-	{
-    "title":"Youm 7",
-    "drawable":"",
-    "submenu":"أخبار سريعة",
-    "iap":false,
-    "tabs":[
-
-      {
-        "title":"FRance 24",
-        "provider":"rss",
-        "arguments":[
-          "https://www.youm7.com/rss/SectionRss?SectionID=298"
-
-
-        ]
-      }
-    ]
-  },
-		   
-	    {
-    "title":"بث مباشر 2",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.as-goal.com"
-        ]
-      }
-    ]
-	    }
-  ,
-  {
-    "title":"النتائج",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.goal.com/ar/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AD%D8%A7%D9%84%D9%8A%D9%8B%D8%A7"
-        ]
-      }
-    ]
-
-  },
-  
+	
   
 
-  {
-    "title":"ملخصات و أهداف",
-    "drawable":"",
-    "submenu":"كورة عربية",
-    "iap":false,
-    "tabs":[
-	      {
-        "title":"تونس",
-        "provider":"youtube",
-        "arguments":[
-          "UCa44LffDN9BNwyGgWpNtBNw",
-          "channel"
-        ]
-      },
-	        {
-        "title":"الجزائر",
-        "provider":"youtube",
-        "arguments":[
-          "UCTP99Nt2BY_xG6gahWXhK5A",
-          "channel"
-        ]
-      },
-	    	     {
-        "title":"المغرب",
-        "provider":"youtube",
-        "arguments":[
-          "UCqXVEbCxzMh-Xljo7ApVgTQ",
-          "channel"
-        ]
-      },
-	    
-	    	          {
-        "title": "كورة مصرية",
-        "provider":"youtube",
-        "arguments":[
-          "UCWLo4r-9_x4GCJCFShNFq0A",
-          "channel"
 
-        ]
-      },
-	    
-	        
-     
-      {
-        "title":"الدوري السعودي",
-        "provider":"youtube",
-        "arguments":[
-          "UCuv25YFiKY3NUnuG7q7F3ng",
-          "channel"
-        ]
-      },
-	   
-	       {
-        "title":"كورة عربية",
-        "provider":"youtube",
-        "arguments":[
-          "UCe9Wb6D8SQR0gyNfgNLZaiw",
-          "channel"
-        ]
-      },
-	          {
-        "title":"متابعات",
-        "provider":"youtube",
-        "arguments":[
-          "UCMrQESW0BGrblhB9uo3Qg5w",
-          "channel"
-        ]
-      }
-	  
-	  
-    ]
-  },
-  {
-    "title":"بث مباشر",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.kol7sry.news/p/yalla-shoot.html?m=0"
-        ]
-      }
-    ]
-
-  },
-	
-	
-
-
-
-  {
-    "title":"فيديوهات",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Categories",
-        "provider":"overview",
-        "arguments":[
-          "overview.json"
-        ]
-      }
-    ]
-  },
-	
-{
-    "title":"من هنا",
-    "drawable":"",
-    "submenu":"تحديث التطبيق",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.knoozapps.xyz/livefoot.html"
-        ]
-      }
-    ]
-
-  },	
 	
 
   {
