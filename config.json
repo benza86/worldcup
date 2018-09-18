@@ -15,6 +15,23 @@
     ]
 
   },	
+	 {
+    "title":"فيديو طريقة تحميل و تنصيب النسخة 2.0",
+    "drawable":"",
+    "submenu":"قم بتحديث التطبيق الان و حذف النسخة القديمة",
+    "iap":false,
+    "tabs":[
+	        {
+        "title":" Apk install",
+        "provider":"youtube",
+        "arguments":[
+          "PL-h6kMEy6W5eAq-k3UJsEkKp4u5wHYQgO",
+          "playlist"
+        ]
+      }
+	    ]
+	 }
+	,
     {
     "title":"مباريات اليوم",
     "drawable":"",
