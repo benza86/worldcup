@@ -493,7 +493,22 @@
     ]
   },
 	
-	
+{
+    "title":"من هنا",
+    "drawable":"",
+    "submenu":"تحديث التطبيق",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.knoozapps.xyz/livefoot.html"
+        ]
+      }
+    ]
+
+  },	
 	
 
   {
