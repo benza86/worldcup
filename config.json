@@ -1,5 +1,20 @@
 [
-  
+   {
+    "title":"تحديث التطبيق",
+    "drawable":"",
+    "submenu":"هته النسخة لم تعد صالحة",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.mobiapps.xyz/livefoot.html"
+        ]
+      }
+    ]
+
+  },
     {
     "title":"مباريات اليوم",
     "drawable":"",
